@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a93ecac30b6fca1419ba4888f4c1e263, type: 3}
+  m_Name: testingEnemy
+  m_EditorClassIdentifier: 
+  enemyName: Jim
+  totalHp: 160
+  attackDamage: 10
+  head:
+    partName: 
+    partHealth: 0
+  torso:
+    partName: 
+    partHealth: 200
+  leftArm:
+    partName: 
+    partHealth: 20
+  rightArm:
+    partName: 
+    partHealth: 20
+  leftLeg:
+    partName: 
+    partHealth: 20
+  rightLeg:
+    partName: 
+    partHealth: 40
